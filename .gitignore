@@ -1,0 +1,4 @@
+.blackbox-cli-v2/
+node_modules/
+*.pyc
+__pycache__/
